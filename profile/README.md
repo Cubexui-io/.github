@@ -1,1 +1,1 @@
-![screenshot](https://raw.githubusercontent.com/Cubexui-io/.github/main/cubexui-web.jpg)
+![screenshot](https://raw.githubusercontent.com/Cubexui-io/.github/main/CubexUI.png)
